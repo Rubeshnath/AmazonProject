@@ -9,7 +9,4 @@ public class InitiateDrivers {
 
    public static RemoteWebDriver driver;
     public  static WebDriverWait wait;
-
-
-
 }
